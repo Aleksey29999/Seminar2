@@ -1,0 +1,15 @@
+G:\gb\C#\seminar2\homework15\bin\Debug\net6.0\homework15.exe
+G:\gb\C#\seminar2\homework15\bin\Debug\net6.0\homework15.deps.json
+G:\gb\C#\seminar2\homework15\bin\Debug\net6.0\homework15.runtimeconfig.json
+G:\gb\C#\seminar2\homework15\bin\Debug\net6.0\homework15.dll
+G:\gb\C#\seminar2\homework15\bin\Debug\net6.0\homework15.pdb
+G:\gb\C#\seminar2\homework15\obj\Debug\net6.0\homework15.csproj.AssemblyReference.cache
+G:\gb\C#\seminar2\homework15\obj\Debug\net6.0\homework15.GeneratedMSBuildEditorConfig.editorconfig
+G:\gb\C#\seminar2\homework15\obj\Debug\net6.0\homework15.AssemblyInfoInputs.cache
+G:\gb\C#\seminar2\homework15\obj\Debug\net6.0\homework15.AssemblyInfo.cs
+G:\gb\C#\seminar2\homework15\obj\Debug\net6.0\homework15.csproj.CoreCompileInputs.cache
+G:\gb\C#\seminar2\homework15\obj\Debug\net6.0\homework15.dll
+G:\gb\C#\seminar2\homework15\obj\Debug\net6.0\refint\homework15.dll
+G:\gb\C#\seminar2\homework15\obj\Debug\net6.0\homework15.pdb
+G:\gb\C#\seminar2\homework15\obj\Debug\net6.0\homework15.genruntimeconfig.cache
+G:\gb\C#\seminar2\homework15\obj\Debug\net6.0\ref\homework15.dll
